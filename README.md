@@ -32,7 +32,7 @@ The trained estimators can be found in the `estimators` folder.
 
 Code for loading and applying our estimators to sample data sets can be found in the Jupyter notebook `load_and_apply_estimators.ipynb`.
 
-## Evaluating the performance of our estimators
+## Evaluating estimator performance
 
 To evaluate the performance of the learned and existing estimators in linear regression problems, we executed `eval_linear_final.py`. We evaluated the symmetrized etimators in this problem using `eval_linear_final_symmetrized.py`.
 
