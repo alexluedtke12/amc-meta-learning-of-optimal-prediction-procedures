@@ -34,7 +34,7 @@ Code for loading and applying our estimators to sample data sets can be found in
 
 ## Evaluating the performance of our estimators
 
-To evaluate the performance of the learned and existing estimators in linear regression problems, we executed `eval_linear_final.py`.
+To evaluate the performance of the learned and existing estimators in linear regression problems, we executed `eval_linear_final.py`. We evaluated the symmetrized etimators in this problem using `eval_linear_final_symmetrized.py`.
 
 To evaluate the performance of the existing FLAM estimator in the fused lasso additive model, we ran the code in the R file `eval_flam.R`. This code generates a folder called `sim_data`, which contains both estimates of the performance of the FLAM estimator and also the data sets used to evaluate this performance. We then evaluated the performance of our unsymmetrized estimators using `eval_flam_final.py`, of our symmetrized estimators using `eval_flam_final_symmetrized.py`, and of our non-equivariant estimators using `eval_flam_ablation.py`.
 
