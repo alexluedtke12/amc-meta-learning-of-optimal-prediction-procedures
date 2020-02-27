@@ -1,6 +1,6 @@
 # amc-meta-learning-of-optimal-prediction-procedures
 
-Code for paper "Adversarial Monte Carlo Meta-Learning of Optimal Prediction Procedures" by A. Luedtke, I. Cheung, and O. Sofrygin [[link](https://websitelinkhere)]
+Code for paper "Adversarial Monte Carlo Meta-Learning of Optimal Prediction Procedures" by A. Luedtke, I. Cheung, and O. Sofrygin [[link](https://arxiv.org/abs/2002.11275)]
 
 ## Environment
 All numerical experiments were performed on AWS GPU instances (`p3.2xlarge`), using
@@ -41,4 +41,4 @@ To evaluate the performance of the existing FLAM estimator in the fused lasso ad
 ## Citation
 If you use our code, please consider citing the following:
 
-Luedtke A., Cheung I., Sofrygin, O. (2020). Adversarial Monte Carlo Meta-Learning of Optimal Prediction Procedures. arXiv.
+Luedtke A., Cheung I., Sofrygin, O. (2020). Adversarial Monte Carlo Meta-Learning of Optimal Prediction Procedures. arXiv:1712.05835.
